@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tranen-aus-eis/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tränen aus Eis](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tranen-aus-eis/) |
+| **Get License** | [Get License For Tränen aus Eis](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tranen-aus-eis/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tränen aus Eis in mei'm schwarzen Coupé
+> Du bist das Gift, das ich trink' wie Rosé
+> Wir cruisen durch Mitte, die Blicke sind heiß
+> Für eine Nacht mit dir zahl' ich den Preis.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
